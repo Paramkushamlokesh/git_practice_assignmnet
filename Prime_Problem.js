@@ -9,9 +9,9 @@ for(let i=1;i<=num;i++){
     
   }
   if (count==2){
-    console.log(i,"not prime");
+    console.log(i,"prime");
   }
   else{
-    console.log(i,"prime");
+    console.log(i," not prime");
   }
 }
