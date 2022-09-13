@@ -6,8 +6,8 @@ for(let i=bag.length-1;i>=0;i--){
    bag1=bag1+bag[i];
 }
 if(num==bag1){
-console.log("No");
+console.log("Yes");
 }
 else{
-console.log("Yes")
+console.log("No")
 }
